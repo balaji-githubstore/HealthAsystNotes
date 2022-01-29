@@ -1,0 +1,43 @@
+Java Architecture 
+Datatypes 
+conditional statement/iterative statements 
+
+Methods - static/non-static methods 
+Variable - static/non-static methods 
+Class & Object 
+
+Oops
+Inheritance 
+Polymorphism - method overloading/method overriding 
+Encapsulation 
+Abstraction 
+
+
+First break - 10:30 - 10:45 AM IST
+Lunch - 1 PM to 2 PM 
+Second break - 3:30 PM - 3:45 PM 
+
+
+
+
+Class - Math 
+static methods 
+	pow(double,double)
+	max(int,int)
+	min(int,int)
+	random()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
