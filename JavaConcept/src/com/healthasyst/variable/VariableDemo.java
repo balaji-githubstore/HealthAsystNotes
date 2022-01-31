@@ -23,6 +23,9 @@ public class VariableDemo {
 		
 		VariableDemo obj3=new VariableDemo();
 		
+//		obj2=null;
+//		obj2=obj1;
+		
 		obj1.bNS=5000;
 		System.out.println(obj1.aNS);
 		System.out.println(obj1.bNS);

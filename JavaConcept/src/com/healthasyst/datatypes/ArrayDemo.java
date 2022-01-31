@@ -4,7 +4,7 @@ public class ArrayDemo {
 
 	public static void main(String[] args) {
 		
-		int[] numbers=new int[5]; //5*32 bits of memory
+		int[] numbers= new int[5]; //5*32 bits of memory
 		
 		numbers[0]=40;
 		numbers[1]=51;

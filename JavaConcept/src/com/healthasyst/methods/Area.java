@@ -11,7 +11,7 @@ public class Area {
 		return (base * height) / 2;
 	}
 	
-	public static double areaOfRectangle(double length,double width)
+	public double areaOfRectangle(double length,double width)
 	{
 		return length*width;
 	}
@@ -24,6 +24,7 @@ public class Area {
 	public static String getAuthorName()
 	{
 		String name="Balaji Dinakaran";
+		System.out.println(name);
 		return name;
 	}
 	
