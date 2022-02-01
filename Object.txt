@@ -1,0 +1,101 @@
+SM --> (aS=100,bS=20)
+
+
+obj2,obj1-->L1-->(aNS=10, bNS=5000)
+
+-->L2-->(aNS=10,bNS=20)
+
+obj3-->L3-->(aNS=10,bNS=20)
+
+
+
+
+Employee 
+	empId
+	empName
+	empSalary
+	companyName 
+
+SM(companyName='HA')
+
+emp1-->L1-->(empId=0,empName=null,empSalary=0.0,companyName=null)
+emp2-->L2-->(empId=0,empName=null,empSalary=0.0,companyName=null)
+emp3-->L3-->(empId=0,empName=null,empSalary=0.0,companyName=null)
+
+
+
+emp1-->L1-->(empId=101,empName="John",empSalary=6000)
+emp2-->L2-->(empId=102,empName="Peter",empSalary=2000)
+emp,emp3-->L3-->(empId=103,empName="Mark",empSalary=4000)
+
+
+
+class/template - Player 
+	variable/state/attribute - playerName
+		 
+			
+
+class/template - Team
+	variable/state/attribute - teamname, player[]
+
+
+
+
+
+Team 1 - CSK - (Raina, John, dhoni)
+
+
+Team 2 - RCB - (kholi, kaif, yuvi) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System.out.println(emp1.empId);
+		System.out.println(emp1.empName);
+		System.out.println(emp1.empSalary);
+		System.out.println(Employee.companyName);
+		
+		System.out.println(emp2.empId);
+		System.out.println(emp2.empName);
+		System.out.println(emp2.empSalary);
+		System.out.println(Employee.companyName);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

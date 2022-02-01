@@ -7,10 +7,14 @@ Variable - static/non-static methods
 Class & Object 
 
 Oops
-Inheritance 
-Polymorphism - method overloading/method overriding 
 Encapsulation 
+Polymorphism - method overloading
+
+Inheritance 
+Runtime Polymorphism - method overriding 
 Abstraction 
+	Abstract class
+	Interface 
 
 
 First break - 10:30 - 10:45 AM IST
@@ -30,14 +34,52 @@ static methods
 
 
 
+Class - Scanner 
+	Non-static methods - 
+		nextLine()
+		nextInt()
 
 
 
 
 
+public Student(int studentId) {
+
+	}
+
+	public Student(int studentId, double sal) {
+
+	}
+
+	public Student(double studentId, int sal) {
+
+	}
+
+Class Person
+	•	Name  
+•	PhoneNumber
+•	MailID
+•	Address
+•	SchoolName
+•	SchoolAddress
 
 
+class Student extends Person
 
 
+•	studentRollno (101,102,103)
+•	studentPercentage 
+•	courseCode (CC101,CC102)
+
+
+class Professor extends Person
+
+	•	professorId (P1001,P1002,P1003)
+•	departmentId (DP101, DP102,DP103,DP104,DP105)
+•	departmentName 
+•	experience 
+
+
+class Management extends Person
 
 
