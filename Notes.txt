@@ -83,3 +83,37 @@ class Professor extends Person
 class Management extends Person
 
 
+
+
+Please complete the assessment. Link in chat
+https://forms.office.com/r/QK5hapejgj
+Complete it by 9:25 AM IST
+
+
+Student 1 
+	studentId=101
+	studentPercentage=78.2
+	courseCode=CC101
+	name=John Wick
+	phoneNumber=9898989
+	mailId=john@outlook.com
+	address=#243, Boston 
+	SchoolName=Global School
+	schoolAddress=#2, global school, chennai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
