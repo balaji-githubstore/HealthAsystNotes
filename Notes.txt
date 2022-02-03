@@ -104,16 +104,59 @@ Student 1
 
 
 
+sendKeys
+click
+findelement
+close
+quit
+getTitle
+
+
+class -chromedriver
+firefoxdrriver
+edgedriver 
+
+
+Launch browser 
+
+
+//selenium basics, synchronization, frame
+
+enter username
+enter password 
+language 
+click login
+gettitle
+geturl
+click message
+click add new
+type dropdown
+status dropdown
+enter message (textarea)
+click on sendmessage
 
 
 
+class - By 
+	static methods 
+		Id 
+		Name 
+		Classname
+		Tagname
+		Linktext 
+		Partial linktext
+		Xpath 
+		CSS 
+
+//	   WebElement ele=driver.findElement(By.id("authUser"));
+//	   ele.sendKeys("admin");
 
 
-
-
-
-
-
+Class Select 
+	Non-static methods 
+		selectByVisibleText(string)
+		selectByValue(string)
+		selectByIndex(string) 
 
 
 

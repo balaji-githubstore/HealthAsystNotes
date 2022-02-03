@@ -1,0 +1,14 @@
+Relative Xpath
+
+//tagname[@attribute='']
+//tagname[text()='']
+
+Contains
+//tagname[contains(@attribute,'')]
+//tagname[contains(text(),'')]
+
+
+
+Example:
+//button[@type='submit']
+//input[@id='authUser']
