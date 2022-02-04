@@ -12,3 +12,6 @@ JAVA CODE - https://github.com/balaji-githubstore/JavaConceptHealthAsyst.git
 
 SELENIUM CODE - https://github.com/balaji-githubstore/SeleniumConceptHealthAsyst.git
 
+
+**CONFIGURE GITHUB WITH ECLIPSE **
+https://docs.google.com/document/d/13zFjFIaf8ZqoElCDvBySAVcVtKECQImky-dSKVVbnQM/edit?usp=sharing
