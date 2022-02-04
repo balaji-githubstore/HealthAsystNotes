@@ -1,3 +1,5 @@
+Absolute xpath - /html/body/div[2]/div/div/div[1]/div/div[2]/button
+
 Relative Xpath
 
 //tagname[@attribute='']
@@ -10,5 +12,23 @@ Contains
 
 
 Example:
+//b[contains(text(),'phpMy')]
+//a[contains(@href,'phpMy')]
+
 //button[@type='submit']
 //input[@id='authUser']
+
+//button[text()='Accept Recommended Settings']
+
+//input[contains(@id,'UserFirst')]
+//button[contains(text(),'Start')]
+
+//img[@alt='Go']
+//img[contains(@src,'go.gif')]
+
+
+///
+
+0--> 1st tab session id
+1--> 2nd tab session id
+
