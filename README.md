@@ -24,7 +24,6 @@ https://docs.google.com/document/d/13zFjFIaf8ZqoElCDvBySAVcVtKECQImky-dSKVVbnQM/
 			<version>5.0.3</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
