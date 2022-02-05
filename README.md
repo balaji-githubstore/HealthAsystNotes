@@ -18,15 +18,4 @@ https://docs.google.com/document/d/13zFjFIaf8ZqoElCDvBySAVcVtKECQImky-dSKVVbnQM/
 
 
 
-<dependency>
-			<groupId>io.github.bonigarcia</groupId>
-			<artifactId>webdrivermanager</artifactId>
-			<version>5.0.3</version>
-		</dependency>
 
-		
-<dependency>
-			<groupId>com.google.guava</groupId>
-			<artifactId>guava</artifactId>
-			<version>31.0.1-jre</version>
-		</dependency>
