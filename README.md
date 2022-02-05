@@ -15,3 +15,18 @@ SELENIUM CODE - https://github.com/balaji-githubstore/SeleniumConceptHealthAsyst
 
 **CONFIGURE GITHUB WITH ECLIPSE **
 https://docs.google.com/document/d/13zFjFIaf8ZqoElCDvBySAVcVtKECQImky-dSKVVbnQM/edit?usp=sharing
+
+
+
+<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>5.0.3</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>31.0.1-jre</version>
+		</dependency>
