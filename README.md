@@ -6,7 +6,7 @@
 https://docs.google.com/spreadsheets/d/1asc_8cjNjrRd3RjIZN8t3jjesixjgqNs24N1IKwwzvA/edit?usp=sharing
 
 
-Assessment 1 - https://forms.office.com/r/QK5hapejgj (Completed)
+
 
 JAVA CODE - https://github.com/balaji-githubstore/JavaConceptHealthAsyst.git
 
@@ -19,3 +19,10 @@ https://docs.google.com/document/d/13zFjFIaf8ZqoElCDvBySAVcVtKECQImky-dSKVVbnQM/
 
 
 BDD Framework - https://github.com/balaji-githubstore/OpenEMRBDDHealthAsyst.git
+
+
+
+
+Assessment 1 - https://forms.office.com/r/QK5hapejgj (Completed)
+
+Assessment 2 - https://forms.office.com/r/CesUwUjgNB
